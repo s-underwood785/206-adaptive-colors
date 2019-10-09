@@ -9,7 +9,7 @@ html, body {
   clear: both;
 }
 
-#wrapper { 
+#wrapper {
   width: 100%;
   max-width: 960px;
   margin: auto;
@@ -65,10 +65,12 @@ footer {
 
   #column-1 {
     background-color: #00FFFF;
+    width: 50%;
   }
 
   #column-2 {
     background-color: 	#5F9EA0;
+    width: 50%;
   }
 
   #column-3 {
@@ -88,20 +90,24 @@ footer {
     background-color: #000000;
   }
 
+
   #column-1 {
     background-color: #FF8C00;
+    width: 33.333%;
   }
 
   #column-2 {
     background-color: #8B0000;
+    width: 33.333%;
   }
 
   #column-3 {
     background-color: #FFD700;
-  }
+      width: 33.333%;
+    }
+
 
   footer {
     background-color: #000000;
   }
-
 }
